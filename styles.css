@@ -11,3 +11,9 @@ img {
   margin: 2vw;
   border-bottom: 4px #5c6f68 solid;
 }
+
+.TaskItem__card {
+  background: #edf9f2;
+  box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+  transition: all ease 500ms;
+}
