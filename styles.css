@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  color: #553e65;
+  background-color: #edf0f2;
+}
+img {
+  width: 80%;
+}
+.TaskItem__border {
+  width: 100%;
+  margin: 2vw;
+  border-bottom: 4px #5c6f68 solid;
+}
